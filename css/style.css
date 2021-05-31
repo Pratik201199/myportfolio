@@ -177,3 +177,41 @@ li{
     width: 100%;
 }
 }
+
+.map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:56.25%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:50%;
+
+    width:100%;
+
+    position:absolute;
+
+}
+
+   
+
+.bottom-left {
+    position: absolute;
+    bottom: 28px;
+    left: 16px;
+    font-size: 20px;
+  }
+
+
+  
